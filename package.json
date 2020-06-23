@@ -1,0 +1,13 @@
+{
+  "name": "typescript_express_server",
+  "version": "1.0.0",
+  "description": "A sample typescript express server",
+  "main": "app.js",
+  "repository": "git@github.com:harshniketseta/typescript_express_server.git",
+  "author": "Harshniket Seta <harshniketseta@gmail.com>",
+  "license": "CC",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
